@@ -1,0 +1,60 @@
+name: two_beauty
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4
+  flutter_svg: ^1.1.0
+  shared_preferences: ^2.0.15
+  json_annotation: ^4.5.0
+  http_interceptor: ^1.0.2
+  flutter_bloc: ^8.0.1
+  injectable: ^1.5.3
+  get_it: ^7.2.0
+  equatable: ^2.0.3
+  dartz: ^0.10.1
+  objectbox: ^1.5.0
+  objectbox_flutter_libs: ^1.5.0
+  path_provider: ^2.0.11
+  simple_connection_checker: ^0.2.1
+  date_picker_timeline: ^1.2.3
+  intl: ^0.17.0
+  search_cep: ^4.0.0+1
+  masked_text_field: ^1.0.0
+  jiffy: ^5.0.0
+  date_time_picker: ^2.1.0
+  select_form_field: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  injectable_generator: ^1.5.3
+  build_runner: ^2.1.11
+  mockito: ^5.2.0
+  objectbox_generator: ^1.5.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/locations.json
+  
+  fonts:
+    - family: Epilogue_400     
+      fonts:
+        - asset: assets/fonts/epilogue/Epilogue-Regular.ttf
+    - family: Epilogue_500     
+      fonts:
+        - asset: assets/fonts/epilogue/Epilogue-Medium.ttf
+    - family: Epilogue_600     
+      fonts:
+        - asset: assets/fonts/epilogue/Epilogue-SemiBold.ttf

@@ -1,0 +1,14 @@
+const String splashRoute = "/";
+const String introRoute = "/intro";
+const String loginRoute = "/login";
+const String signupRoute = "/signup";
+const String homeRoute = "/home";
+const String registerStoreIntroRoute = "/registerStoreIntro";
+const String registerStoreRoute = "/registerStore";
+const String detailStore = "/detailStore";
+const String profileAgenda = "/profileAgenda";
+const String logoutRoute = "/logout";
+const String closeAppRoute = "/close";
+const String bottomNavyRoute = "/bottomNavy";
+const String appointmentRoute = "/appointment";
+const String ownerFormRoute = "/ownerForm";
