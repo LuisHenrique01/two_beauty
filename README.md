@@ -1,12 +1,10 @@
-<h1><img src="https://raw.githubusercontent.com/luishenrique01/2beauty-app/main/assets/images/logo.png" alt="drawing" width="50" height="50"/> 2Beauty App </h1>
+# 2Beauty App
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) ![GitHub Org's stars](https://img.shields.io/github/stars/luishenrique01/2beauty-app?style=social)
 
-## 👨‍💻 Equipe
+## 👨‍💻 Autor
 
-- [José Hilton](https://github.com/luishenrique01)
 - [Luis Henrique](https://github.com/LuisHenrique01)
-- [Marcos Macedo](https://github.com/marcosmacedoo)
 
 ## 📝 Tema
 
